@@ -8,5 +8,7 @@ This project is done using the following technologies -
 >  * Jupyter Notebook
 >  * Google docs
 
+This analysis is based on the `results.csv` file which contains temperature data along with year.
+
 ### License:
 This project is under _MIT License_ see more in [LICENSE]()

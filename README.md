@@ -1,13 +1,19 @@
 # Explore_weather_trend
-This project is a part of Data Analyst Nanodegree. This project is for analyse the temperature trends of the World and the city I lived.
-This project is done using the following technologies -
+Here we explore weather trends of the World the Delhi city over last 150 years. And analyse the trends of these two.
 
+## Dataset
+- **city_data.csv** This file contains average temperatures(°C) of cities around the World by year. This file consists of `year`, `city`, `country` and `avg_temp` columns.
+- **global_data.csv** This file contains average global temperatures(°C) by year. This ffile consists of `year` and `avg_temp` columns.
+- **results.csv** This file is created by extracting necessary data from the above two files for our analysis. This has `Year`, `Global_Temp`, `City_Temp` columns.
+
+
+## Requirements
 > * SQL
 > * Python3
->  * Google Spreadsheet
->  * Jupyter Notebook
+> * Google Spreadsheet
+> * Jupyter Notebook
 
-This analysis is based on the `results.csv` file which contains temperature data along with year.
+This analysis is based on the `results.csv` file which contains average temperature data of the World and Delhi(India) city along with years.
 
 ### License:
 This project is under _MIT License_ see more in [LICENSE]()

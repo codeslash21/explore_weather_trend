@@ -4,7 +4,7 @@ Here we explore weather trends of the World the Delhi city over last 150 years. 
 ## Dataset
 - **city_data.csv** This file contains average temperatures(°C) of cities around the World by year. This file consists of `year`, `city`, `country` and `avg_temp` columns.
 - **global_data.csv** This file contains average global temperatures(°C) by year. This ffile consists of `year` and `avg_temp` columns.
-- **results.csv** This file is created by extracting necessary data from the above two files for our analysis. This has `Year`, `Global_Temp`, `City_Temp` columns.
+- **results.csv** This file is created by extracting necessary data from the above two files using SQL queries for our analysis. This has `Year`, `Global_Temp`, `City_Temp` columns.
 
 
 ## Requirements

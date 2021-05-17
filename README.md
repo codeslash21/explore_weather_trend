@@ -4,9 +4,9 @@ Here we explore weather trends of the World the Delhi city over last 150 years. 
 The details and findings of the analysis is in the `Explore_weather_trend.pdf` file.
 
 ## Dataset
-- **city_data.csv** This file contains average temperatures(°C) of cities around the World by year. This file consists of `year`, `city`, `country` and `avg_temp` columns.
-- **global_data.csv** This file contains average global temperatures(°C) by year. This ffile consists of `year` and `avg_temp` columns.
-- **results.csv** This file is created by extracting necessary data from the above two files using SQL queries for our analysis. This has `Year`, `Global_Temp`, `City_Temp` columns.
+- **data/city_data.csv** This file contains average temperatures(°C) of cities around the World by year. This file consists of `year`, `city`, `country` and `avg_temp` columns.
+- **data/global_data.csv** This file contains average global temperatures(°C) by year. This ffile consists of `year` and `avg_temp` columns.
+- **data/results.csv** This file is created by extracting necessary data from the above two files using SQL queries for our analysis. This has `Year`, `Global_Temp`, `City_Temp` columns.
 
 
 ## Requirements
@@ -18,8 +18,8 @@ The details and findings of the analysis is in the `Explore_weather_trend.pdf` f
 </br>
 
 
-
+[Review](https://review.udacity.com/#!/reviews/2148388)
 
 
 ### License:
-This project is under _MIT License_ see more in [LICENSE]()
+This project is under _MIT License_ see more in [LICENSE](https://github.com/codeslash21/explore_weather_trend/blob/master/LICENSE)

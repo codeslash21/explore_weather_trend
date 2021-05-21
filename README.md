@@ -18,7 +18,7 @@ The details and findings of the analysis is in the `Explore_weather_trend.pdf` f
 </br>
 
 
-[Review](https://review.udacity.com/#!/reviews/2148388)
+
 
 
 ### License:
